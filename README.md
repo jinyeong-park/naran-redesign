@@ -25,13 +25,13 @@ This project will deliver an updated front-end solution that aligns with modern 
 
 ### Landing Page
 
-### Club Page
-
-![img](./images/club_page_figma.png)
-
 ### User Page
 
-![img](./images/user_page_figma.png)
+![img](./images/figma_user_page.png)
+
+### Club Page
+
+![img](./images/figma_club_page.png)
 
 ## My Redefined Design
 
