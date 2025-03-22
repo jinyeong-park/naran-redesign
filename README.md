@@ -21,7 +21,7 @@ This project will deliver an updated front-end solution that aligns with modern 
 ![img](./images/before_landing_page1_kor.png)
 ![img](./images/before_landing_page2_kor.png)
 
-## New design
+## Proposed design
 
 ### Landing Page
 
@@ -32,3 +32,5 @@ This project will deliver an updated front-end solution that aligns with modern 
 ### User Page
 
 ![img](./images/user_page_figma.png)
+
+## My Redefined Design
